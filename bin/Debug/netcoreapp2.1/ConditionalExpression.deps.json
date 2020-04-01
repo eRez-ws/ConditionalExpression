@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "ConditionalExpression/1.0.0": {
+        "dependencies": {
+          "Nancy": "1.4.3"
+        },
+        "runtime": {
+          "ConditionalExpression.dll": {}
+        }
+      },
+      "Nancy/1.4.3": {
+        "runtime": {
+          "lib/net40/Nancy.dll": {
+            "assemblyVersion": "1.4.2.0",
+            "fileVersion": "1.4.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConditionalExpression/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Nancy/1.4.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4ZqIS2ZpFbQ5hgv1W/3qBz/gJd0J81+/3S31Hs6bATsexi3UDFvMrjL/i0qlrZRE0dquRHRztYDWoGl9jeb0aQ==",
+      "path": "nancy/1.4.3",
+      "hashPath": "nancy.1.4.3.nupkg.sha512"
+    }
+  }
+}

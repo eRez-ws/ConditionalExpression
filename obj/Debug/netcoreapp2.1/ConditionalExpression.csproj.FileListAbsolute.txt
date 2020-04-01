@@ -1,0 +1,10 @@
+C:\GitHubRepos\plugins-automation\fsa\tests\EUA\C#\SmallTests\C2288082\Data\project\ConditionalExpression\bin\Debug\netcoreapp2.1\ConditionalExpression.deps.json
+C:\GitHubRepos\plugins-automation\fsa\tests\EUA\C#\SmallTests\C2288082\Data\project\ConditionalExpression\bin\Debug\netcoreapp2.1\ConditionalExpression.runtimeconfig.json
+C:\GitHubRepos\plugins-automation\fsa\tests\EUA\C#\SmallTests\C2288082\Data\project\ConditionalExpression\bin\Debug\netcoreapp2.1\ConditionalExpression.runtimeconfig.dev.json
+C:\GitHubRepos\plugins-automation\fsa\tests\EUA\C#\SmallTests\C2288082\Data\project\ConditionalExpression\bin\Debug\netcoreapp2.1\ConditionalExpression.dll
+C:\GitHubRepos\plugins-automation\fsa\tests\EUA\C#\SmallTests\C2288082\Data\project\ConditionalExpression\bin\Debug\netcoreapp2.1\ConditionalExpression.pdb
+C:\GitHubRepos\plugins-automation\fsa\tests\EUA\C#\SmallTests\C2288082\Data\project\ConditionalExpression\obj\Debug\netcoreapp2.1\ConditionalExpression.csprojAssemblyReference.cache
+C:\GitHubRepos\plugins-automation\fsa\tests\EUA\C#\SmallTests\C2288082\Data\project\ConditionalExpression\obj\Debug\netcoreapp2.1\ConditionalExpression.AssemblyInfoInputs.cache
+C:\GitHubRepos\plugins-automation\fsa\tests\EUA\C#\SmallTests\C2288082\Data\project\ConditionalExpression\obj\Debug\netcoreapp2.1\ConditionalExpression.AssemblyInfo.cs
+C:\GitHubRepos\plugins-automation\fsa\tests\EUA\C#\SmallTests\C2288082\Data\project\ConditionalExpression\obj\Debug\netcoreapp2.1\ConditionalExpression.dll
+C:\GitHubRepos\plugins-automation\fsa\tests\EUA\C#\SmallTests\C2288082\Data\project\ConditionalExpression\obj\Debug\netcoreapp2.1\ConditionalExpression.pdb
